@@ -1,5 +1,6 @@
 # 💫 About Me:
 PortFolio :-- https://shakti-port-folio.vercel.app/
+
 🎓 I'm currently working on:<br>Developing native Android applications using Kotlin and Jetpack Compose, implementing MVVM architecture, and optimizing app performance for various device configurations.<br>👥 I'm looking to collaborate on:<br>Open-source Android projects, innovative mobile solutions, UI/UX-focused applications, and cross-functional teams building scalable Android apps.<br>💡 I'm looking for help with:<br>Advanced Coroutines and Flow patterns, Jetpack Compose animations, app architecture best practices, and integrating modern Android development tools.<br>🏆 I'm currently learning:<br>Kotlin Multiplatform Mobile (KMM), Compose Material 3 design system, advanced Android testing strategies, and CI/CD pipelines for mobile development.<br>💬 Ask me about:<br>Android SDK, Kotlin programming, Material Design implementation, Firebase integration, Room database, Retrofit for networking, or anything related to Android development.<br>⚡ Fun fact:<br>This is personal to you! Maybe something like: "I've published X apps on the Play Store" or "I can debug code faster with coffee" or "I learned Android development by building a weather app that became unexpectedly popular" 
 
 ## 🌐 Socials:
